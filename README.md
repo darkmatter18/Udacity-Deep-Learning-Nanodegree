@@ -6,6 +6,15 @@
 [![Top Language](https://img.shields.io/github/languages/top/darkmatter18/Udacity-Deep-Learning-Nanodegree?color=orange&style=flat-square&logo=jupyter)](https://github.com/darkmatter18/Udacity-Deep-Learning-Nanodegree)
 [![Lincence](https://img.shields.io/github/license/darkmatter18/Udacity-Deep-Learning-Nanodegree?style=flat-square)](https://github.com/darkmatter18/Udacity-Deep-Learning-Nanodegree/blob/master/LICENSE)
 
+
+## Contents
+
+1. [1. Intro to neural networks](./1.%20Intro%20to%20neural%20networks)
+    - [1. Gradient Descent](./1.%20Intro%20to%20neural%20networks/1.%20Gradient%20Descent)
+    - [2. Student Admissions](./1.%20Intro%20to%20neural%20networks/2.%20Student%20Admissions)
+
+
+
 ## Maintainer
 
 [![Relative date](https://img.shields.io/date/1588258952?color=important&label=started&logo=github)](https://github.com/darkmatter18/) [![Maintenance](https://img.shields.io/maintenance/yes/2020?color=green&logo=github)](https://github.com/darkmatter18/)
