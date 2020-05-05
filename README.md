@@ -17,6 +17,7 @@
 4. [4. Convolutional Neural Networks](./4.%20Convolutional%20Neural%20Networks)
     - [1. MNIST MLP](./4.%20Convolutional%20Neural%20Networks/1.%20MNIST%20MLP)
     - [2. Conv Visualization](./4.%20Convolutional%20Neural%20Networks/2.%20Conv%20Visualization)
+    - [3. CIFAR CNN](./4.%20Convolutional%20Neural%20Networks/3.%20CIFAR%20CNN)
 
 ## Maintainer
 
