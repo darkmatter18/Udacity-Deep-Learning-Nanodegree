@@ -21,6 +21,11 @@
 - [5. Transfer Learning](./5.%20Transfer%20Learning)
 - [6. Weight Initialization](./6.%20Weight%20Initialization)
 - [7. Autoencoder](./7.%20Autoencoder)
+    - [1. Linear Autoencoder](./7.%20Autoencoder/1.%20Linear%20Autoencoder)
+    - [2. Convolutional Autoencoder](./7.%20Autoencoder/2.%20Convolutional%20Autoencoder)
+    - [3. Denoising Autoencoder](./7.%20Autoencoder/3.%20Denoising%20Autoencoder)
+- [8. Style Transfer](./8.%20Style%20Transfer)
+- [**9. [Project] Dog Classification**](./9.%20[Project]%20Dog%20Classification)
 
 ## Maintainer
 
