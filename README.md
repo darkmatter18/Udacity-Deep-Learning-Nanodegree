@@ -9,23 +9,23 @@
 
 ## Contents
 
-- [1. Intro to neural networks](./1.%20Intro%20to%20neural%20networks)
+- [1. Intro to neural networks](./01.%20Intro%20to%20neural%20networks)
     - [1. Gradient Descent](./1.%20Intro%20to%20neural%20networks/1.%20Gradient%20Descent)
     - [2. Student Admissions](./1.%20Intro%20to%20neural%20networks/2.%20Student%20Admissions)
-- [2. Sentiment Analysis Network](./2.%20Sentiment%20Analysis%20Network)
-- [**3. [Project] Bike Sharing**](./3.%20[Project]%20Bike%20Sharing)
-- [4. Convolutional Neural Networks](./4.%20Convolutional%20Neural%20Networks)
+- [2. Sentiment Analysis Network](./02.%20Sentiment%20Analysis%20Network)
+- [**3. [Project] Bike Sharing**](./03.%20[Project]%20Bike%20Sharing)
+- [4. Convolutional Neural Networks](./04.%20Convolutional%20Neural%20Networks)
     - [1. MNIST MLP](./4.%20Convolutional%20Neural%20Networks/1.%20MNIST%20MLP)
     - [2. Conv Visualization](./4.%20Convolutional%20Neural%20Networks/2.%20Conv%20Visualization)
     - [3. CIFAR CNN](./4.%20Convolutional%20Neural%20Networks/3.%20CIFAR%20CNN)
-- [5. Transfer Learning](./5.%20Transfer%20Learning)
-- [6. Weight Initialization](./6.%20Weight%20Initialization)
-- [7. Autoencoder](./7.%20Autoencoder)
+- [5. Transfer Learning](./05.%20Transfer%20Learning)
+- [6. Weight Initialization](./06.%20Weight%20Initialization)
+- [7. Autoencoder](./07.%20Autoencoder)
     - [1. Linear Autoencoder](./7.%20Autoencoder/1.%20Linear%20Autoencoder)
     - [2. Convolutional Autoencoder](./7.%20Autoencoder/2.%20Convolutional%20Autoencoder)
     - [3. Denoising Autoencoder](./7.%20Autoencoder/3.%20Denoising%20Autoencoder)
-- [8. Style Transfer](./8.%20Style%20Transfer)
-- [**9. [Project] Dog Classification**](./9.%20[Project]%20Dog%20Classification)
+- [8. Style Transfer](./08.%20Style%20Transfer)
+- [**9. [Project] Dog Classification**](./09.%20[Project]%20Dog%20Classification)
 
 ## Maintainer
 
