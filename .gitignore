@@ -2,3 +2,5 @@
 10. Recurrent Neural Networks/2. Char RNN/rnn_x_epoch.net
 11. Word2vec Embeddings/data/text8
 __pycache__
+12. Sentiment RNN/models/optim.pt
+12. Sentiment RNN/models/model.pt
